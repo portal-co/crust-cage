@@ -1,0 +1,9 @@
+[workspace]
+members=[]
+resolver="3"
+
+[workspace.package]
+license = "MPL-2.0"
+description = "Crust to safe Rust sandboxer, similar to wars(2)"
+
+[workspace.dependencies]
