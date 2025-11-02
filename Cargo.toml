@@ -1,5 +1,5 @@
 [workspace]
-members=["crates/crust-cage-compiler"]
+members=["crates/crust-cage-compiler", "crates/crust-cage-rt"]
 resolver="3"
 
 [workspace.package]
