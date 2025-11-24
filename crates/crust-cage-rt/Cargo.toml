@@ -7,3 +7,6 @@ description.workspace = true
 
 [dependencies]
 bytemuck = { version = "1.24.0", features = ["derive"] }
+
+[features]
+alloc=[]
