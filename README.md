@@ -1,13 +1,14 @@
 # crust-cage
 
 ## Description
-Project crust-cage
+"Crust to safe Rust sandboxer". A compiler and runtime for sandboxing code, similar to `wars`.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Compile "Crust" (possibly a subset or dialect) to safe Rust
+- [ ] Ensure secure execution in the runtime (`crust-cage-rt`)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace setup with compiler and runtime crates
 
 ---
 *AI assisted*
